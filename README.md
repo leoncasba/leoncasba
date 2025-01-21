@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I've been working for the last 5 years in e-commerce and IT Consulting environments as BI/Data Analyst and Data Engineer.
+I've been working for the last 5 years in e-commerce and IT Consulting environments taking diverse data roles as: Data Analyst, BI Analyst and Data Engineer.
 
 **My current Tech Tool Box includes:**
 - ☁️ Cloud: Azure.
