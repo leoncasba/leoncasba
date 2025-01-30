@@ -4,7 +4,7 @@ I've been working for the last 5 years in e-commerce and IT Consulting environme
 
 **My current Tech Tool Box includes:**
 - ☁️ Cloud: Azure.
-- 🛢️ Databases: MySQL, PostgreSQL, Oracle SQL, SQL Server, MongoDB.
+- 🛢️ Databases: MySQL, PostgreSQL, Oracle SQL, SQL Server, Azure SQL, MongoDB.
 - 👨‍💻 Programming languages: SQL, Python, R.
 - ⚙️ ETL Tools: Azure Data Factory, Azure Synapse Analytics, Fabric, Pentaho Data Integration, SSIS.
 - 📊 Data Visualization Tools: Microsoft Power BI, Apache Superset.
